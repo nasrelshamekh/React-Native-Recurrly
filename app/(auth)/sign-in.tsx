@@ -2,7 +2,7 @@ import {View, Text} from 'react-native'
 import React from 'react'
 import {Link} from "expo-router";
 
-const SignInTest = () => {
+const SignIn = () => {
     return (
         <View>
             <Text>SignIn</Text>
@@ -10,4 +10,4 @@ const SignInTest = () => {
         </View>
     )
 }
-export default SignInTest
+export default SignIn
